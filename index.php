@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+ <!DOCTYPE html> 11111111111111111111111111
 <html lang="en" class=" js no-touch">
 <head>
   <title>Magnolia | HTML5 Responsive Bootstrap Template</title>
